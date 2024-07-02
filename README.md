@@ -14,3 +14,6 @@
 <img src="https://github.com/RianFauza/Analisisa-Kebutuhan-Sistem/assets/115771479/c353cf78-7afc-4168-83d3-dd1c4d0e7b13" alt="deskripsi_gambar" style="width: 70%; height: auto;">
 
 <img src="https://github.com/RianFauza/Analisisa-Kebutuhan-Sistem/assets/115771479/4cb6c8f2-e6a8-465a-8640-33e9d4f70496" alt="deskripsi_gambar" style="width: 70%; height: auto;">
+
+# Class Diagram
+<img src="https://github.com/RianFauza/Analisisa-Kebutuhan-Sistem/assets/115771479/b512b50f-f6b5-4afc-8da9-c66912210c38" alt="deskripsi_gambar" style="width: 70%; height: auto;">
